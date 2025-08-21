@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BINV1100-1-MATH2LastDance.iml" filepath="$PROJECT_DIR$/.idea/BINV1100-1-MATH2LastDance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examens/Examen_Juin2022/Examen_Juin2022.iml" filepath="$PROJECT_DIR$/Examens/Examen_Juin2022/Examen_Juin2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examens/Examen_Juin2023/Examen_Juin2023.iml" filepath="$PROJECT_DIR$/Examens/Examen_Juin2023/Examen_Juin2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examens/Examen_Septembre2022/Examen_Septembre2022.iml" filepath="$PROJECT_DIR$/Examens/Examen_Septembre2022/Examen_Septembre2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examens/Examens.iml" filepath="$PROJECT_DIR$/Examens/Examens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MATH2_Ensembles/MATH2_Ensembles.iml" filepath="$PROJECT_DIR$/MATH2_Ensembles/MATH2_Ensembles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MATH2_Matrices/MATH2_Matrices.iml" filepath="$PROJECT_DIR$/MATH2_Matrices/MATH2_Matrices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MATH2_Relations/MATH2_Relations.iml" filepath="$PROJECT_DIR$/MATH2_Relations/MATH2_Relations.iml" />
+    </modules>
+  </component>
+</project>
